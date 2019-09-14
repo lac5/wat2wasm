@@ -1,0 +1,14 @@
+{
+	"name": "wat2wasm",
+	"version": "1.0.0",
+  "type": "commonjs",
+  "main": "wat2wasm.js",
+  "dependencies": {
+    "wabt": "^1.0.11",
+    "yargs": "^14.0.0"
+  },
+  "bin": {
+    "wat2wasm": "./wat2wasm.js",
+    "wasm2wat": "./wasm2wat.js"
+  }
+}
