@@ -1,6 +1,6 @@
-# Web Assembly "Text <--> Binary" Command-Line Tool
+# Web Assembly Assembler Tool
 
-This this is just a simple wrapper for the `wabt` node module to work as a command-line tool.
+This is just a wrapper for the `wabt` node module to work as a command-line tool.
 
 ### Install
 
